@@ -1,4 +1,5 @@
-# new projet 
-This projet is created from local system.
-  this is project created by  Hariram Prajapati 
+# Practice Project
 
+This repository contains my practice work and learning experiments.
+
+# Created and maintained by Hariram Prajapati.
